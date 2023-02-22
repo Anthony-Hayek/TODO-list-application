@@ -1,0 +1,12 @@
+{
+  "tasksList": [
+    {
+      "task": "Read",
+      "status": false
+    },
+    {
+      "task": "Study",
+      "status": false
+    }
+  ]
+}
